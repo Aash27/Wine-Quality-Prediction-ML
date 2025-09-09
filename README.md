@@ -16,20 +16,6 @@ The project explores various **machine learning algorithms and techniques** to e
 
 ---
 
-## 📂 Repository Structure
-
-Wine-Quality-Prediction-ML/
-│── notebooks/ # Jupyter notebooks explaining the workflow
-│── src/ # Source code for preprocessing, training & evaluation
-│── models/ # Trained models for reuse
-│── requirements.txt # List of dependencies
-│── README.md # Project documentation
-
-yaml
-Copy code
-
----
-
 ## 🚀 Usage
 
 1. **Clone the repository**
@@ -38,8 +24,6 @@ Copy code
    cd Wine-Quality-Prediction-ML
 Set up a virtual environment & install dependencies
 
-bash
-Copy code
 python -m venv venv
 source venv/bin/activate   # On Linux/Mac
 venv\Scripts\activate      # On Windows
