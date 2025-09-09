@@ -78,9 +78,4 @@ Libraries: scikit-learn, pandas, matplotlib, seaborn, numpy
 📜 License
 This project is open-source and available under the MIT License.
 
-pgsql
-Copy code
 
-Do you want me to add **GitHub badges at the very top** (Python version, license, stars, forks, etc.) so it looks like a professional open-source repo?
-
-Ask ChatGPT
