@@ -24,11 +24,6 @@ The project explores various **machine learning algorithms and techniques** to e
    cd Wine-Quality-Prediction-ML
 Set up a virtual environment & install dependencies
 
-python -m venv venv
-source venv/bin/activate   # On Linux/Mac
-venv\Scripts\activate      # On Windows
-pip install -r requirements.txt
-
 
 ## 📊 Dataset
 **Source:** UCI Wine Quality Dataset
