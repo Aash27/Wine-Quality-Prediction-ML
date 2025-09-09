@@ -30,14 +30,14 @@ venv\Scripts\activate      # On Windows
 pip install -r requirements.txt
 
 
-📊 Dataset
+## 📊 Dataset
 **Source:** UCI Wine Quality Dataset
 
 **Contents:** Red and White wine samples with various chemical properties.
 
 **Target Variable:** Quality rating (score between 0 and 10).
 
-🤝 **Contributions**
+## 🤝 Contributions
 Contributions are welcome! 🎉
 
 **You can:**
@@ -45,12 +45,12 @@ Suggest improvements
 Report issues
 Submit pull requests
 
-🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 Language: Python
 
 Libraries: scikit-learn, pandas, matplotlib, seaborn, numpy
 
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
 
 
