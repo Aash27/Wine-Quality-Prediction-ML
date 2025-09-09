@@ -28,33 +28,24 @@ python -m venv venv
 source venv/bin/activate   # On Linux/Mac
 venv\Scripts\activate      # On Windows
 pip install -r requirements.txt
-Explore the notebooks
-Navigate to the notebooks/ directory to understand preprocessing, training, and evaluation.
 
-Run custom experiments
-Modify or add scripts inside src/ for training and testing new models.
-
-Use trained models
-Access pre-trained models in the models/ folder for direct use or fine-tuning.
 
 📊 Dataset
-Source: UCI Wine Quality Dataset
+**Source:** UCI Wine Quality Dataset
 
-Contents: Red and White wine samples with various chemical properties.
+**Contents:** Red and White wine samples with various chemical properties.
 
-Target Variable: Quality rating (score between 0 and 10).
+**Target Variable:** Quality rating (score between 0 and 10).
 
-🤝 Contributions
+🤝 **Contributions**
 Contributions are welcome! 🎉
-You can:
 
+**You can:**
 Suggest improvements
-
 Report issues
-
 Submit pull requests
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 Language: Python
 
 Libraries: scikit-learn, pandas, matplotlib, seaborn, numpy
